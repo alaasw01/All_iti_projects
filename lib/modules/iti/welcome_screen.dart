@@ -27,7 +27,7 @@ class HomeScreen extends StatelessWidget {
                   fontWeight: FontWeight.bold
                 ),),
                 SizedBox(height: 30.0,),
-               Text(textAlign: TextAlign.center,'Monitor the goods until the destinationز',style: TextStyle(
+               Text(textAlign: TextAlign.center,'Monitor the goods until the destination.',style: TextStyle(
                   fontSize: 20.0,
                   color: Color.fromARGB(255, 207, 197, 197)
                 ),),
